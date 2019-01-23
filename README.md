@@ -14,3 +14,6 @@ https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/scripts/down
 ## Sample Training Command
 python train.py --name facades --model flowgan --gpu_ids "[0, 1]"
 
+
+## Sample output
+![Test Image 5](cityscapes_flow.png)
